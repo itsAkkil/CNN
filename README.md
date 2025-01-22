@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# Face Detection
 
-## Please refer the document attached to this repo
+
